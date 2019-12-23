@@ -1,0 +1,8 @@
+prefix=/home/natsuki/sotsuken/devel
+
+Name: roomba_500_series
+Description: Description of roomba_500_series
+Version: 2.0.1
+Cflags: -I/home/natsuki/sotsuken/src/roomba_500_series-master/include
+Libs: -L/home/natsuki/sotsuken/devel/lib 
+Requires: roscpp rosconsole geometry_msgs geometry_msgs

@@ -1,0 +1,8 @@
+prefix=/home/natsuki/sotsuken/devel
+
+Name: jushin
+Description: Description of jushin
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/natsuki/sotsuken/devel/lib 
+Requires: roscpp roslib std_msgs tf

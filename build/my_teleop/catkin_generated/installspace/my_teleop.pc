@@ -1,0 +1,8 @@
+prefix=/home/natsuki/sotsuken/install
+
+Name: my_teleop
+Description: Description of my_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/natsuki/sotsuken/install/lib 
+Requires: 

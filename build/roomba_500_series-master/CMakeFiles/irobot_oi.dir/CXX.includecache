@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/natsuki/sotsuken/src/cereal_port-master/include/cereal_port/CerealPort.h
+stdexcept
+-
+termios.h
+-
+string
+-
+vector
+-
+stdint.h
+-
+boost/function.hpp
+-
+boost/thread/thread.hpp
+-
+
+/home/natsuki/sotsuken/src/roomba_500_series-master/include/roomba_500_series/OpenInterface.h
+cereal_port/CerealPort.h
+/home/natsuki/sotsuken/src/roomba_500_series-master/include/roomba_500_series/cereal_port/CerealPort.h
+
+/home/natsuki/sotsuken/src/roomba_500_series-master/src/iRobot/OpenInterface.cpp
+stdlib.h
+-
+string.h
+-
+math.h
+-
+stdio.h
+-
+string
+-
+netinet/in.h
+-
+sys/types.h
+-
+roomba_500_series/OpenInterface.h
+/home/natsuki/sotsuken/src/roomba_500_series-master/src/iRobot/roomba_500_series/OpenInterface.h
+

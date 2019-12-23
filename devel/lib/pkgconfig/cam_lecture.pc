@@ -1,0 +1,8 @@
+prefix=/home/natsuki/sotsuken/devel
+
+Name: cam_lecture
+Description: Description of cam_lecture
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/natsuki/sotsuken/devel/lib 
+Requires: 

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>cereal_port</name>
+  <version>1.0.0</version>
+  <description>Old serial port package</description>
+
+  <author>Gonçalo Cabrita and Pedro Sousa</author>
+  <maintainer email="darikcr@gmail.com">Oleg Urzhumtcev</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <run_depend>roscpp</run_depend>
+
+</package>

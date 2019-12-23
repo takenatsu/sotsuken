@@ -1,0 +1,8 @@
+prefix=/home/natsuki/sotsuken/devel
+
+Name: practice_pkg
+Description: Description of practice_pkg
+Version: 0.0.0
+Cflags: -I/home/natsuki/sotsuken/src/practice_pkg/include
+Libs: -L/home/natsuki/sotsuken/devel/lib 
+Requires: roscpp std_msgs

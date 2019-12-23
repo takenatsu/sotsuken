@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libgo_dock.so -o /home/natsuki/sotsuken/devel/lib/libgo_dock.so CMakeFiles/go_dock.dir/src/GoDock/GoDock.o 

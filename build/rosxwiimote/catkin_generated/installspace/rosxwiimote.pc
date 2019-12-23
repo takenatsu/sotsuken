@@ -1,0 +1,8 @@
+prefix=/home/natsuki/sotsuken/install
+
+Name: rosxwiimote
+Description: Description of rosxwiimote
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/natsuki/sotsuken/install/lib 
+Requires: roscpp roslib std_msgs

@@ -1,0 +1,8 @@
+prefix=/home/natsuki/sotsuken/install
+
+Name: ps4_pub
+Description: Description of ps4_pub
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/natsuki/sotsuken/install/lib 
+Requires: 

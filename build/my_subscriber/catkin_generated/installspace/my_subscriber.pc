@@ -1,0 +1,8 @@
+prefix=/home/natsuki/sotsuken/install
+
+Name: my_subscriber
+Description: Description of my_subscriber
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/natsuki/sotsuken/install/lib 
+Requires: roscpp rospy message_runtime std_msgs geometry_msgs
